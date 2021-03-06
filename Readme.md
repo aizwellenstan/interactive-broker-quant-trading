@@ -1,6 +1,7 @@
 # How To Run
 ```
 pip install -r requirements.txt
+python live_enigne.py
 ```
 
 # Debug
